@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Geoffrey Ohadha
+# 👋 Hi, I’m Geoffrey Ohadha Oduor
 **Accessibility Tester & Flutter Developer | QA Specialist | Full-Stack Enthusiast**  
 
 [Portfolio Website](https://geoffreyohadhaportfolio.netlify.app/)
