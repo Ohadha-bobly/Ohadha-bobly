@@ -8,7 +8,10 @@
 ## 🌟 About Me
 I am a project-oriented Software Developer and Accessibility Tester with over 3 years of experience in full-stack development, database systems, and accessibility testing. I am passionate about creating impact-driven technology and building scalable, accessible solutions.
 
-![Profile Screenshot](assets/profile-image.png)
+<!-- Centered Profile Image -->
+<p align="center">
+  <img src="assets/profile-image.png" alt="Profile Screenshot" width="200"/>
+</p>
 
 ---
 
@@ -46,6 +49,17 @@ I am a project-oriented Software Developer and Accessibility Tester with over 3 
 ![WCAG](https://img.shields.io/badge/WCAG-Accessibility-4CAF50?style=for-the-badge)
 ![NVDA](https://img.shields.io/badge/NVDA-Testing-5C2D91?style=for-the-badge)
 ![VoiceOver](https://img.shields.io/badge/VoiceOver-Testing-333333?style=for-the-badge)
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ohadha-bobly&show_icons=true&theme=radical" alt="GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ohadha-bobly&theme=radical" alt="GitHub Streak"/>
+</p>
 
 ---
 
