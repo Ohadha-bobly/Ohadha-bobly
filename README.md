@@ -52,19 +52,6 @@ I am a project-oriented Software Developer and Accessibility Tester with over 3 
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ohadha-bobly&show_icons=true&theme=radical" alt="GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ohadha-bobly&theme=radical" alt="GitHub Streak"/>
-</p>
-
----
-
-## 📫 Contact Me
-- Email: geoffreyohadh@gmail.com  
-- Phone: 0798813541  
+## 📫 Contact Me 
 - GitHub: [Ohadha-bobly](https://github.com/Ohadha-bobly)  
 - Portfolio: [geoffreyohadhaportfolio.netlify.app](https://geoffreyohadhaportfolio.netlify.app/)
